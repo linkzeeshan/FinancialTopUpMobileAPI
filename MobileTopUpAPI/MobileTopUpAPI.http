@@ -1,0 +1,6 @@
+@MobileTopUpAPI_HostAddress = http://localhost:5047
+
+GET {{MobileTopUpAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

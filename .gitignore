@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MobileTopUpAPI/bin/Debug/net8.0
+/.vs/MobileTopUpAPI
+/ReverseEngineering/obj/Debug/net8.0
+/MobileTopUpAPI/obj
